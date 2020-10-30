@@ -1,4 +1,6 @@
 React official tutorial - board game.
+The second time I went through this board game.
+Still need a third review.
 
 # Getting Started with Create React App
 
